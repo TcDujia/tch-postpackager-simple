@@ -1,0 +1,55 @@
+{
+  "name": "tch-postpackager-simple",
+  "version": "0.0.4",
+  "description": "a postpackager plugin for fis to auto replace pack resource and auto combine resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hefangshi/fis-postpackager-simple"
+  },
+  "keywords": [
+    "tch",
+    "postpackager",
+    "package",
+    "simple"
+  ],
+  "author": {
+    "name": "hefangshi"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "stable": "0.1.5"
+  },
+  "bugs": {
+    "url": "https://github.com/hefangshi/fis-postpackager-simple/issues"
+  },
+  "homepage": "https://github.com/hefangshi/fis-postpackager-simple",
+  "_id": "tch-postpackager-simple@0.0.3",
+  "_shasum": "8c49cf6aa6cd9357319bccf52b4647b606f8a163",
+  "_from": "tch-postpackager-simple@0.0.3",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "gerdy",
+    "email": "imfpe@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "gerdy",
+      "email": "imfpe@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8c49cf6aa6cd9357319bccf52b4647b606f8a163",
+    "size": 5852,
+    "noattachment": false,
+    "tarball": "http://172.16.51.21:8765/tch-postpackager-simple/download/tch-postpackager-simple-0.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "http://172.16.51.21:8765/tch-postpackager-simple/download/tch-postpackager-simple-0.0.3.tgz",
+  "publish_time": 1421207286477,
+  "_cnpm_publish_time": 1421207286477,
+  "readme": "ERROR: No README data found!"
+}
